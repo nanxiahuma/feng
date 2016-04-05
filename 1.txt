@@ -2,15 +2,4 @@
 123123123123
 wo ai beijing
 hahahhahahhahah
-<<<<<<< HEAD
-For branch test
-=======
-
-this is the new
-123123123123
-this is the new
-feng
-this is the new
-this is the new
- do some change for branch
->>>>>>> origin
+For Pytest
